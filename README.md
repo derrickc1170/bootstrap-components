@@ -1,6 +1,7 @@
 # bootstrap-components
 Period 8
+Compentent.
 * Navbar
-* Button
+* Badges
 * Scrollspy
 No Causal Demo
