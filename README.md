@@ -1,6 +1,6 @@
 # bootstrap-components
 Period 8
 * Navbar
-* Accordion
-* Collapse
+* Button
+* Accordin
 No Causal Demo
